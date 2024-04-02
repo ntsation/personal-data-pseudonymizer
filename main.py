@@ -38,3 +38,5 @@ texto_pseudonimizado = pseudonimizar_texto(texto_exemplo)
 
 # Imprime o texto pseudonimizado
 print(texto_pseudonimizado)
+
+# Saida = O aplicante de nome **** ** ***** que mora na Rua das ******** e tem número de telefone ************. Contato pelo e-mail *********@*****.***.
